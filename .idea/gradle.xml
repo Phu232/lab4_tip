@@ -11,8 +11,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/app/lab1" />
+            <option value="$PROJECT_DIR$/app/lab3_dice_roller" />
+            <option value="$PROJECT_DIR$/app/lab4" />
+            <option value="$PROJECT_DIR$/chuyentrang" />
+            <option value="$PROJECT_DIR$/lab" />
             <option value="$PROJECT_DIR$/lab1" />
+            <option value="$PROJECT_DIR$/lab6" />
             <option value="$PROJECT_DIR$/lib" />
           </set>
         </option>

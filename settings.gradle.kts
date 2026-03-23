@@ -21,7 +21,10 @@ dependencyResolutionManagement {
 
 rootProject.name = "My Application"
 include(":app")
-include(":app:lab1")
-include(":lib")
 include(":lib")
 include(":lab1")
+include(":lab")
+include(":app:lab3_dice_roller")
+include(":app:lab4")
+include(":lab6")
+include(":chuyentrang")
